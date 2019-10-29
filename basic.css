@@ -1,0 +1,70 @@
+﻿/*This is external css file for the basic layout of each page in the website.*/
+
+/*This rule set applies to content within the body section.*/
+body
+{
+    font-family: comic-sans,Verdana,sans-serif;
+	background-image: url("beautiful_stars.jpeg");
+}
+
+/* The following rule set applies to content within the div element.*/
+div
+{
+    text-align: center;
+}
+
+.menu ul
+{
+	padding: 20px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+div.menu
+{
+    border-style: ridge;
+    border-width: 10px;
+    text-align: center;
+    background-color: aqua;
+    color: black;	
+}
+
+ul.menu
+{
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	height: 10pt;
+	line-height: 60%;
+	list-style-type: none;
+	padding: 0;
+	margin-left: 0;
+	font-size: 20px;
+}
+
+li.menu
+{
+	float: left;
+	position: relative;
+	padding: 7pt;
+}
+
+/*The following rule set only applies to content within h1 elements.*/
+h1
+{
+    text-align: center;
+	color: gray;
+}
+
+/*The following rule set only applies to content within p elements.*/
+p 
+{
+	color: white;
+	text-align: center
+}
+
+/*This rule set only applies to content within the class validator.*/
+.validator
+{
+	float: left;
+}

@@ -1,0 +1,48 @@
+﻿/*This is the external css file for journey.html.*/
+
+div.options
+{
+	text-align: center;
+}
+
+/*This rule set only applies to content within the element p.*/ 
+p
+{
+	color: red
+}
+
+/*This rule set only applies to images linked to the webpage.*/
+img
+{
+	border-left: solid;
+	border-top: solid;
+	border-right: solid;
+	border-bottom: solid;
+	border-width: 10px;
+	color: aqua;
+	position: center;
+}
+
+/*This rule set only applies to content within elements with the class warning.*/
+.warning
+{
+	color: red;
+	font-size: 15pt;
+}
+
+/*This rule set only applies to content within the element h2.*/
+h2
+{
+	list-style:none;
+	font-size: 20pt;
+	border: dotted;
+	border-width: 7px;
+	border-color:orange;
+	background-color:white;
+}
+
+/*This rule set only applies to content within elements with the class validator.*/
+.validator
+{
+	border: none;
+}

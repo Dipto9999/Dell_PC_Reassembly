@@ -1,0 +1,14 @@
+/*This is the external css file for references.html.*/
+
+ul.citations
+{
+	list-style: none;
+	color: white;
+	float: left;
+	border: solid black 1pt;
+	border-radius: 5pc;
+	background-color: grey;
+	padding: 30pt;
+	margin-left: 10%;
+	margin-right: 5%;
+}

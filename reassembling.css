@@ -1,0 +1,19 @@
+/*This is the external css file for reassembling.html.*/
+
+/*This rule set applies to content within and linked by the element iframe.*/
+iframe
+{
+	position: center;
+}
+
+.images
+{
+	position: center;
+}
+
+.success
+{
+	position: center; 
+	font-size: 30pt;
+	color: red;
+}

@@ -1,0 +1,41 @@
+﻿/*This is the external css file for documentation.html.*/
+
+/*This rule set applies to content within elements with the class Noted_Information.*/
+.Noted_Information
+{
+	font-size: 17px;
+	list-style: none;
+	border:solid;
+}
+
+/*This rule set contains the declarations for h2, h3, h4, ol, and ol li.*/
+h2,h3,h4,ol,ol li
+{
+	color: yellow;
+	list-style: none;
+	background-color: grey;
+	padding: 20pt;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: solid black 1pt;
+	border-radius: 5pc;
+}
+
+/*This rule set provides a few alterations for content within the elements h3 and h4 than from the declarations in the previous rule set.*/
+h3,h4
+{
+	color: orange;
+	border: solid;
+	background-color: blue;
+}
+
+/*This rule set applies to content within elements with the class border.*/
+.border
+{
+	border: solid;
+}
+
+
+
+
+

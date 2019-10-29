@@ -1,0 +1,21 @@
+/*This is the external css file for story.html.*/
+
+/*This rule set applies to content within the element p.*/
+p
+{
+	text-align: left;
+	color: black;
+	font-size: 14px;
+	text-indent: 14px;
+}
+
+/*This rule set applies to content within elements with the id Story.*/
+#Story
+{
+	background-color: grey;
+	padding: 20pt;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: solid black 1pt;
+	border-radius: 5pc;
+}

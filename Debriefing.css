@@ -1,0 +1,46 @@
+﻿/*This is the external css file for Debriefing.html.*/
+
+/*This rule set only applies to content within the element p.*/
+p
+{
+	color:yellow;
+	list-style:none;
+	background-color: grey;
+	padding: 20pt;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: solid black 1pt;
+	border-radius: 5pc;
+}
+
+/*This rule set only applies to content within elements with the class p2.*/
+.p2
+{
+	color:white;
+	list-style:none;
+	background-color: red;
+	padding: 20pt;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: solid black 1pt;
+	border-radius: 5pc;
+}
+
+/*This rule set only applies to content within elements with the class p3.*/
+.p3
+{
+	color:yellow;
+	list-style:none;
+	background-color: green;
+	padding: 20pt;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: solid black 1pt;
+	border-radius: 5pc;
+}
+
+/*This rule set only applies to content within elements with the class kshitij.*/
+.kshitij
+{
+	position:center;
+}

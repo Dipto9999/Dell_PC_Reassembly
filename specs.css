@@ -1,0 +1,27 @@
+/*This is the external css file for specs.html.*/
+
+/*This rule set applies to content within elements with the id specification_list.*/
+#specification_list
+{
+	text-align: left;
+	color: red;
+	list-style: none;
+	font-size: 17px;
+}
+
+dl
+{
+	position: center;
+	padding-left: 10px;
+}
+
+#system_unit_2
+{
+	float:right
+}
+
+#system_unit
+{
+	float: left;
+	margin-right: 5%;
+}

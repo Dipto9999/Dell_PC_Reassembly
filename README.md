@@ -1,0 +1,2 @@
+# Disassembly and Reassembly of a Dell System Unit
+I worked with a team of three other students to take apart a Dell System Unit and identify its hardware components. After reassembling the PC, we booted the computer using Unix operating system . This process was documented using HTML and CSS in the project files. Note that videos directory isn't included due to GitHub size restrictions. It can be assesed separately at https://drive.google.com/open?id=1p5Y7OqFuiwaDnGTtp5JHUOYkHKDwGqpe and saved into cloned repository for videos to appear on website. 

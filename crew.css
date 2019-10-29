@@ -1,0 +1,39 @@
+﻿/*This is the external css file for crew.html.*/
+
+/*This rule set only applies to content within elements with the class heading_of_description.*/ 
+.heading_of_description
+{
+	color: white;
+	font-size: 25px;
+}
+
+/*This rule set only applies to content within elements with the class description.*/ 
+.description
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	text-indent: 20px;
+}
+
+/*This rule set only applies to content within elements with the class names.*/ 
+.names
+{
+	color: white;
+	float: left;
+	font-size: 16pt;
+}
+
+/*This rule set only applies to content within elements p and h3.*/ 
+p, h3
+{
+	float: left;
+	color: yellow;
+	list-style:none;
+	background-color: grey;
+	padding: 30pt;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: solid black 1pt;
+	border-radius: 5pc;
+}
