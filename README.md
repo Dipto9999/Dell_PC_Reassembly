@@ -6,10 +6,10 @@ I worked with a team of three other students to take apart a Dell System Unit an
 <i>Note that .wmv files in Videos directory are uploaded to remote repository using Git LFS due to size restrictions.</i>
 
 ## Website Preview
-<p align="center"><img src="Images/Website_Preview.jpg" width="60%" height="60%" title="Preview of Website" ></p>
+<p align="center"><img src="Images/Website_Preview.JPG" width="60%" height="60%" title="Preview of Website" ></p>
 
 ## Assembly Preview
-<p align="center"><img src="Images/Ram_in_Motherboard.jpg" width="60%" height="60%" title="Open System Unit" ></p>
+<p align="center"><img src="Images/Ram_in_Motherboard.JPG" width="60%" height="60%" title="Open System Unit" ></p>
 <p align="center">-----------------------------------------------------------------------------------------------------------------</p>
-<p align="center"><img src="Images/Os_boot.jpg" width="60%" height="60%" title="Booting OS With Ubuntu" ></p>
+<p align="center"><img src="Images/Os_boot.JPG" width="60%" height="60%" title="Booting OS With Ubuntu" ></p>
 
