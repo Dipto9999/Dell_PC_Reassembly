@@ -10,6 +10,6 @@ I worked with a team of three other students to take apart a Dell System Unit an
 
 ## Assembly Preview
 <p align="center"><img src="Images/Ram_in_Motherboard.jpg" width="60%" height="60%" title="Open System Unit" ></p>
------------------------------------------------------------------------------------------------------------------
+<p align="center">-----------------------------------------------------------------------------------------------------------------</p>
 <p align="center"><img src="Images/Os_boot.jpg" width="60%" height="60%" title="Booting OS With Ubuntu" ></p>
 
