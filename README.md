@@ -1,4 +1,4 @@
-# Disassembly and Reassembly of a Dell System Unit
+# Reassembly of a Dell System Unit
 
 ## Contents
 * [Overview](#Overview)
